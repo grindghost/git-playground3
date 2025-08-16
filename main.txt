@@ -6,3 +6,4 @@ deux
 
 J'ai ajouté cela. Voici l'ajout du texte de la variation no.6. (important)
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…
